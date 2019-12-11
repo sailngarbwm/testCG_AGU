@@ -1,4 +1,4 @@
-#CG test and demo for SeidarT
+# CG test and demo for SeidarT
 
 Seismic and radar modeling using staggered grid finite differences (FDTD) and convolutional perfectly matched boundaries (CPML)
 
