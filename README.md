@@ -1,5 +1,7 @@
 # CG test and demo for SeidarT
 
+Hey Buddy thanks for the repo
+
 Seismic and radar modeling using staggered grid finite differences (FDTD) and convolutional perfectly matched boundaries (CPML)
 
 ### Table of Contents
